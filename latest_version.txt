@@ -1,1 +1,7 @@
 pre alpha build refresh
+
+Date of relese : unknown
+
+New stuff : added automatic refresh feature 
+
+Description : this update brought data refreshing so you have allways the freshest data on your hand.
